@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "description": "Simple class that is able to store a square root as a string \"√3\" and value \"1.73...\".",
     "main": "index.js",
+    "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -10,6 +11,6 @@
         "type": "git",
         "url": "https://github.com/LittleStinkerGuy/npm_package.git"
     },
-    "author": "Daniel Kharis",
+    "author": "Daniel Kharis <daniel@danielkharis.com> (https://danielkharis.com)",
     "license": "ISC"
 }
