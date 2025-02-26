@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/LittleStinkerGuy/npm_package.git"
+        "url": "git+https://github.com/LittleStinkerGuy/semantic-square-root.git"
     },
     "author": "Daniel Kharis <daniel@danielkharis.com> (https://danielkharis.com)",
     "license": "ISC"
