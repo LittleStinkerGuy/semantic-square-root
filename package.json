@@ -1,6 +1,6 @@
 {
     "name": "semantic-square-root",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Simple class that is able to store a square root as a string \"√3\" and value \"1.73...\".",
     "main": "index.js",
     "type": "module",
