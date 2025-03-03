@@ -1,6 +1,6 @@
 {
     "name": "semantic-square-root",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "Semantic Square Root is a lightweight js package that is able to represent a stored square root value as both a decimal value of the square root and a rationalized version with the square root symbol. E.g. \"√3\" and \"1.732...\".",
     "keywords": [
         "square root",
